@@ -25,6 +25,10 @@ body {
     text-align: center;
 }
 
+#more{
+   display: none;
+}
+
 .bottomtext{
 width: 100%;
 text-align: center;
