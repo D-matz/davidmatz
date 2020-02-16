@@ -10,3 +10,10 @@ function readmore() {
     btnText.innerHTML = "hide";
   }
 }
+
+function myFunction(){
+    var about = document.getElementById("about");
+    var classes = document.getElementById("classes");
+    about.style.display = "none";
+    classes.style.display = "inline-block";
+}
