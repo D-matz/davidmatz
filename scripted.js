@@ -11,7 +11,7 @@ function readmore() {
   }
 }
 
-function dispClass(){
+function nope(){
     var about = document.getElementById("about");
     var classes = document.getElementById("classes");
     about.style.display = "none";
