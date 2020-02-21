@@ -9,11 +9,19 @@ function readmore() {
     moreText.style.display = "inline";
     btnText.innerHTML = "hide";
   }
+  var hi = document.getElementById("hi");
+  var classes = document.getElementById("classes");
+  hi.style.display = "inline";
+  classes.style.display = "none";
+
 }
 
-function nope(){
-    var about = document.getElementById("about");
+function dispClass(){
+    var hi = document.getElementById("hi");
+    var more = document.getElementById("more");
     var classes = document.getElementById("classes");
-    about.style.display = "none";
+    hi.style.display = "none";
+    more.style.display = "none";
     classes.style.display = "inline-block";
+    document.getElementById("seemore").innerHTML = "about";
 }

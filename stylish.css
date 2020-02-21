@@ -41,6 +41,7 @@ background: rgba(0, 0, 0, 0.0);
   border: 0px solid #444444;
   font-size: 25px;
   outline: none;
+  margin: auto;
 }
 
 .bottomtext{
