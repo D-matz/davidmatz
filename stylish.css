@@ -51,7 +51,7 @@ text-align: center;
 
 
     @media (min-width:0px){
-        .box2 {
+        .clickCard {
           width: 70%;
           height: 50%;
             display: inline-block;
@@ -61,7 +61,7 @@ text-align: center;
         }
     }
     @media (min-width:700px){
-        .box2 {
+        .clickCard {
           width: 40%;
           height: 50%;
             display: inline-block;
@@ -71,7 +71,7 @@ text-align: center;
         }
     }
     @media (min-width:1000px){
-        .box2 {
+        .clickCard {
           width: 25%;
           height: 50%;
             display: inline-block;
