@@ -1,16 +1,16 @@
 function readmore() {
   var moreText = document.getElementById("more");
   var btnText = document.getElementById("seemore");
-  if (moreText.style.display === "inline") {
+  if (moreText.style.display === "inline" || moreText.style.display === "inline-block") {
     moreText.style.display = "none";
     btnText.innerHTML = "about";
   } else {
     moreText.style.display = "inline";
     btnText.innerHTML = "hide";
+    only("more");
   }
   var hi = document.getElementById("hi");
   hi.style.display = "inline";
-  only("more");
 }
 
 function dispClass(){
