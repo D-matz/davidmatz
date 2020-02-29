@@ -5,23 +5,55 @@ function readmore() {
     moreText.style.display = "none";
     btnText.innerHTML = "about";
   } else {
-    btnText.innerHTML = "Read less";
     moreText.style.display = "inline";
     btnText.innerHTML = "hide";
   }
   var hi = document.getElementById("hi");
-  var classes = document.getElementById("classes");
   hi.style.display = "inline";
-  classes.style.display = "none";
-
+  only("more");
 }
 
 function dispClass(){
+    only("classes");
+    off();
+}
+
+function dispWork(){
+    only("work");
+    off();
+}
+
+function dispMedia(){
+    only("media");
+    off();
+}
+
+function dispActive(){
+    only("active");
+    off();
+}
+
+function off(){
     var hi = document.getElementById("hi");
     var more = document.getElementById("more");
-    var classes = document.getElementById("classes");
     hi.style.display = "none";
     more.style.display = "none";
-    classes.style.display = "inline-block";
-    document.getElementById("seemore").innerHTML = "about";
+    var btnText = document.getElementById("seemore");
+    btnText.innerHTML = "about";
+}
+
+function only(keep){
+    var hide = ["media", "classes", "work", "active", "exp", "more"];
+    for(var i=0;i<6;i++)
+    {
+        var h = document.getElementById(hide[i]);
+        if(hide[i] != keep)
+        {
+            h.style.display = "none";
+        }
+        else
+        {
+            h.style.display = "inline-block";
+        }
+    }
 }
