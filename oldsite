@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html>
+<title>People and Computers</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="stylish.css">
+<script src="scripted.js"></script>
+<body id = "grad">
+<div id = "active" class = "top">
+<p>
+People graduated so we aren’t a team anymore, but we used to have a UChicago League team and played vs other colleges. Having only played soloq it was interesting to play in a team environment with people I could have dinner with in person. We did pretty well overall, there was a tournament where we expected to get eliminated by a team that eventually did beat us, which was whatever, but we almost lost to the much weaker team before them which was traumatic. We lost the first game in the 3 game series but went back to the strategies that worked for us and came back, which was good because losing to the weaker team would’ve been very disappointing. Obviously losing always sucks but the team we lost to had a dedicated esports program with scholarships so whatever. Anyways, overall the team had a nice atmosphere but there was some tension around how much we should practice. One guy, who later became a coach for OpTic’s League team, wanted a lot of consistent and regimented practice and serious vod review. Another guy felt like he was playing fine and, busy with school and life and needing time to relax, didn’t want that level of practice. So there was a bit of drama but nothing that bad. I assume teams always have to deal with this sort of thing, and fortunately we eventually resolved it like civilized people. But then people graduated so I haven't been playing on a team. I've still played soloq though. Here's my guide for enchanter supports: <a href="https://d-matz.github.io/support/">https://d-matz.github.io/support/</a> unfortunately I don't always have time to play so I can't update it as the meta changes but hopefully the fundamentals will stay true.
+</p>
+
+<p>
+I’ve attended Uncommon Hacks, an overnight hackathon. You make something and have a good time. My goal was just to finish a tiny but real project, because I wanted to get a feel for the development process even on a smaller scale. I was in a group that needed to figure out 3 things: A weather API, some calculations using it, and a front end page. We more or less did them all at once, which I felt like was a learning experience in terms of using React and an API but also for scheduling things. We had a real deadline because I was like I want to make something finished enough that it’s presentable, even if it isn’t insanely ambitious, because for me just going up and talking about it for a few minutes to a hundred people is already a challenge so I wanted to have something concrete I could easily talk about. Also, beyond our own project, they had some sponsoring technology they were presenting which I'd like to try when I have more time. And the whole event is really well produced in terms of scheduling, sites, food, etc.
+</p>
+
+<p>
+Night Owls is Agnes Callard’s public philosophy initiative, involving debates followed by a Q&A. They have cookies so they usually get a hundredish students, but the one between her and Ben Callard on divorce was packed for reasons. There’s also a smaller discussion group that runs beforehand, reading papers in preparation for the debate, which I was in for one before Agnes Callard talked to Tyler Cowen about philosophy and economics (and their battle for your soul). I felt like it was basically an extension of UChicago discussion classes (Hum/Sosc/Civ) in terms of format and in addition to being interesting, it led to Professor Callard reaching out to me when she was later asked to do an event at the Field Museum on Being Alive. And at first I was like lol wtf could I do for this I’m not a philosophy person nope but then I thought well I could do Being Alive Online and just talk about my thesis for 7 out of 10 minutes. So I ended up giving a little talk as part of the Night of Ideas, which somehow France was organizing with the Field Museum, idk. Anyways I ended up arguing people live meaningful lives online or something like that idk but it was good.
+</p>
+
+<p>
+I’ve also played a decent amount of IM soccer, which has been fun, but I’m so out of shape and I still have the habit of playing like I can run around for a while without dying which sadly is no longer the case.
+</p>
+</div>
+
+<div id = "exp" class = "top">
+<p>
+bla bla
+</p>
+</div>
+
+</div>
+<div id ="media" class = "top">
+    <p>
+    In my free time I do <b>not</b> go hiking, save the planet, travel, play chess, volunteer, draw, or do anything like that. Those things all sound great, but what I do is sit in front of my computer. I take sitting front of my computer very seriously, and would not be content jotting down a cool sounding hobby as an afterthought without going into it. So here’s some of my favorite media from various genres. I’d love to hear your thoughts about any of it, so if you like this stuff feel free (encouraged!) to email me at davidmatz@uchicago.edu
+    </p>
+    <h1>Books</h1>
+    <h4>Posting books on goodreads or whatever has always felt pretentious to me but oh well</h4>
+    <p>Father Goriot</p>
+    <p>Lolita</p>
+    <p>Native Son</p>
+    <p>Maskerade</p>
+    <p>Ravelstein</p>
+    <h1>Movies</h1>
+    <h4>Not counting shows (eg clone wars) the star wars sequel trilogy is better than the prequel trilogy</h4>
+    <p>Annie Hall</p>
+    <p>Borat</p>
+    <p>Harold & Kumar Go to White Castle</p>
+    <p>Parasite</p>
+    <p>The Lord of the Rings (trilogy films)</p>
+    <h1>Music</h1>
+    <h4>I tend to like music more when it's associated with something else, for instance Megalovania is fine on its own but really special because of Sans</h4>
+    <p>Concerning Hobbits</p>
+    <p>Hurricane>Dear Theodosia>Wait for it>One Last Time>Battle of Yorktown (but really the whole musical is perfect and impossible to rank)</p>
+    <p>Phoenix>Warriors>Rise>rest</p>
+    <p>Reach for the Summit (but really anything from Celeste)</p>
+    <p>Sultans of Swing</p>
+    <h1>Shows</h1>
+    <h4>I get to include more than one thing if I can claim they're part of the same universe (eg The Michael Schur Cinematic Universe)</h4>
+    <p>Black Mirror</p>
+    <p>Bojack Horseman</p>
+    <p>Jeeves and Wooster</p>
+    <p>Misaeng (Incomplete Life)</p>
+    <p>The Office/Parks and Rec/The Good Place</p>
+    <h1>Streamers</h1>
+    <h4>If they're nice that's nice but they have to be good and they can't be bland</h4>
+    <p>Clown</p>
+    <p>TF Blade</p>
+    <p>Tyler1</p>
+    <p>Schuhbart</p>
+    <p>Stunt</p>
+    <h1>Videogames</h1>
+    <h4>I was going to say League the whole way through but I had to pay Celeste its dues</h4>
+    <p>Celeste<p>
+    <p>League<p>
+    <p>League<p>
+    <p>League<p>
+    <p>League<p>
+</div>
+<div id="work" class="top">
+    hey
+</div>
+<div id="classes" class="top">
+    <table>
+        <div>
+            <h1>Selected Courses</h1>
+
+            <h3>Tastiest Bites of the Smorgasbord</h3>
+
+            <p>Sometimes I see "selected" such and such and I’m like what does "selected" mean? So, to be clear, my selection criteria here is this class was cool or provocative or something to the extent that I’d enjoy discussing it. It follows I'd be happy to talk about any of these at davidmatz@uchicago.edu :)</p>
+
+            <p>I included the instructor's name where I felt nobody else would teach the class the same. UChicago talks a lot about Rigor™ so I put a ™ on classes I felt were Rigor™. I put numbers for core sequences over multiple quarters.</p>
+        </div>
+        <tr>
+            <th>Core</th>
+        </tr>
+        <tr>
+            <td>America in World Civ (1-2-3)</td>
+            <td>Imperial influences, Civil War, and human rights.</td>
+        </tr>
+        <tr>
+            <td>Classics of Social and Political Thought (1-2-3) (Emma Saunders-Hastings)</td>
+            <td>Real order: classical, political, and social thought.</td>
+        </tr>
+        <tr>
+            <td>Honors Intro to Calculus (1-2-3)</td>
+            <td>Proving everything from the ground up.</td>
+        </tr>
+        <tr>
+            <td>Honors Intro to Computer Science (1-2)</td>
+            <td>Haskell is trying too hard. C isn't trying hard enough.</td>
+        </tr>
+        <tr>
+            <td>Philosophical Perspectives (1-2-3) (Ben Callard)</td>
+            <td>Edgy takes can be fun, but beware <a href="https://www.urbandictionary.com/define.php?term=That%20Kid">that kid</a>.</td>
+        </tr>
+        <tr>
+            <th>Computer Science</th>
+        </tr>
+        <tr>
+            <td>Computer Architecture™</td>
+            <td>Implemented a multi stage, branch predicting, cache simulating ARM instruction pipeline in C. We went over caches, but also spent a while on topologies of processor networks.</td>
+        </tr>
+        <tr>
+            <td>Computers for Learning (Diana Franklin)</td>
+            <td>Lectures and readings on technology in pedagogy. Made a Java game for English language learners. I felt some topics had good nuance, or at least a good direction of research, including ordering CS prerequisites and engaging students in virtual classrooms. But sometimes I felt STEM people just recently realized drawing circuits on the blackboard with your back turned to students makes for ineffective teaching, and reacted by ditching the idea of a good lecture for active learning. Taking notes in a lecture is learning actively too.</td>
+        </tr>
+        <tr>
+            <td>Data Visualization</td>
+            <td>Mapping data to dimensions in graphs and how people view visualizations. Using Node.js to create images from numbers.</td>
+        </tr>
+        <tr>
+            <td>Honors Theory of Algorithms™ (Laszlo Babai)</td>
+            <td>Proving correctness and lower and upper bounds on complexity. Some dynamic programming, a lot of graph theory. NP completeness and Karp reductions. In order to cover a lot of material, Babai assigns many "Do" exercises during lecture, which are to check your understanding rather than hand in. This frees him from the burden of explaining or grading which typically limits how much material can be taught in a course, allowing him to cover a lot. Also, he will fight you over where you put each upside down A and reverse E.</td>
+        </tr>
+        <tr>
+            <td>Introduction to Computer Systems</td>
+            <td>Before 154 I thought of a computer as something you can use to do interesting things, but then the idea of this class was that the computer itself is interesting (actually, the real idea was to attack you with C projects but that doesn't sound as nice).</td>
+        </tr>
+        <tr>
+            <td>Introduction to Databases (Aaron Elmore)</td>
+            <td>Relational algebra makes sense and is cool and maybe even useful for SQL or whatever. ER diagrams are somewhere between unfathomable chaos and satanic scrawls. Anyways, on the systems side, trade offs around io costs for ways of storing pages in memory and on disk and indexing records. Implemented a "simple" relational database in Java.</td>
+        </tr>
+        <tr>
+            <td>Foundations of Computer Networks (Borja Sotomayor)</td>
+            <td>Mostly layers 2-4: Ethernet, WiFi, a bit on switches and access points, IP, TCP, DNS. Implemented core sections of <a href="https://tools.ietf.org/html/rfc2812">IRC</a> and <a href="https://tools.ietf.org/html/rfc793">TCP</a> and a routing table in C. The material could omit needless words and include more useful ones, imo.</td>
+        </tr>
+        <tr>
+            <td>Parallel Computing (Hank Hoffman)</td>
+            <td>im putting this up while in the class. u might even say, in parallel. haha. ill leave now</td>
+        </tr>
+        <tr>
+            <th>Sociology</th>
+        </tr>
+        <tr>
+            <td>Critical Videogame Studies (Patrick Jagoda)</td>
+            <td>Really a CMST class, but related to my thesis so yeah. Wrote an insane paper arguing Nietzsche reads <i>Mario</i> > <i>Braid</i> > <i>Problem Attic</i> as the slave revolt in morality and Mario is his redeemer. Prototyped a broken but cool post apocalyptic story game. Because everyone in class had a shared vocabulary for discussing games from readings and lectures, there were a lot of interesting blog posts. I had <a href="https://uofcmediastudies.wixsite.com/vgs2018/post/layers-of-metagaming-in-league-of-legends">one good post</a> but I'd really really really recommend checking out others like <a href="https://uofcmediastudies.wixsite.com/vgs2018/profile/peterforberg/blog-posts">Peter Forberg</a> and <a href="https://uofcmediastudies.wixsite.com/vgs2018/profile/samanthaxiao/blog-posts">Samantha Xiao</a>. As opposed to my posts (long winded spiels I wouldn't subject my worst enemy to) theirs are concise, funny, and thoughtful.</td>
+        </tr>
+        <tr>
+            <td>Effects of Schooling</td>
+            <td>A survey of the statistical health, wealth, and happiness benefits of schooling.</td>
+        </tr>
+        <tr>
+            <td>Ethnographic Field Methods</td>
+            <td>Theory and practice of choosing a site, gaining access, making observations, choosing questions, writing field notes, and putting it into a paper. I did the quarter long ethnography/final paper/class presentation on a gaming cafe in Chicago as a practice run for my thesis.</td>
+        </tr>
+        <tr>
+            <td>Mathematical Sociology</td>
+            <td>Mainly about ways of analyzing networks of people. In my final paper I used Facebook friends to represent connections in Alper and Vue53, two UChicago houses. Various measures show Alper is the better connected house, which fits with Vue53's position as not really a real house.</td>
+        </tr>
+        <tr>
+            <td>Sociology of Deviant Behavior™ (Kristen Schilt)</td>
+            <td>Deviance, obviously, but also normal behavior and the boundary work in their relationship. I really liked someone named, believe it or not, David Matza. In my final paper I wrote about how a flamer in <i>League</i> uses his neutralization techniques.</td>
+        </tr>
+        <tr>
+            <td>Sociology of Higher Education (Melissa Osborne)</td>
+            <td>How students navigate college depending on their background, and comparing college as a sieve, incubator, temple, and hub. It was a cold winter (polar vortex!) and I wrote a fun paper on Canada Goose as cultural capital.</td>
+        </tr>
+        <tr>
+            <td>Sociology Theory™ (Kimberly Hoang)</td>
+            <td>Fairly reading and writing intensive but also intense lectures under threat of random popsicle stick cold call. In some ways the standard Marx Weber Durkheim up through recent theorists, but also a broader range of viewpoints and contextualization of their lives and goals, and applying everything to American Factory. From the weird personal reflection/applying theory final paper, I'd like to share my <a href="./context.png">personal issue</a> with a lot of social science research on <i>League</i>.</td>
+        </tr>
+        <tr>
+            <td>Statistical Models and Methods</td>
+            <td>Probability distribution functions, random variables and expected values. Correlation, confidence intervals, and linear regression. R in RStudio for calculations and displaying descriptive statistics and graphs.</td>
+        </tr>
+    </table>
+</div>
+<p id = "hi" style="font-size: 20px">Hi! I'm interested in <b>people</b> and <b>computers</b>. Obviously, this encompasses quite a bit.</p>
+<div id="about" class="top">
+    <div id="more">
+    <p>To narrow it down, I'm talking about the intersection like peanut butter and chocolate: cool on their own, but together...</p>
+
+    <p>As an example, I'm currently writing a thesis arguing, based on survey and interview data, that players in enact gender roles in <i>League of Legends</i>, an ostensibly anonymous, online context, using meanings developed by the game's community.</p>
+
+    <p>Let me clarify that this is not exactly HCI or developing new technology for interfacing between humans and machines. That might be related and is all well and good, I'm just interested in particular ways people interact with one another, online.</p>
+
+    <p>Please peruse pertinent and/or frivolous highlights from my time at Chicago by clicking pictures below.</p>
+    </div>
+    <button onclick="readmore()" id="seemore" class="hover-shadow">about</button>
+</div>
+<div class="clickCard" onclick="dispClass()">
+    <div class="hover-shadow" style="width:100%">
+        <img src="251.jpg" alt="Korea" style="width:100%">
+        <div>
+            <p class="bottomtext">Classes</p>
+            <p class="bottomtext">work in the classroom</p>
+        </div>
+    </div>
+</div>
+<div class="clickCard" onclick="dispWork()">
+    <div class="hover-shadow" style="width:100%">
+        <img src="work.jpg" alt="Korea" style="width:100%">
+        <div>
+            <p class="bottomtext">Experiences</p>
+            <p class="bottomtext">work out of the classroom</p>
+        </div>
+    </div>
+</div>
+<div class="clickCard" onclick="dispActive()">
+    <div class="hover-shadow" style="width:100%">
+        <img src="korea.jpg" alt="Korea" style="width:100%">
+        <div>
+            <p class="bottomtext">Activities</p>
+            <p class="bottomtext">not exactly work experiences</p>
+        </div>
+    </div>
+</div>
+<a href = ./libraries.html style="text-decoration: none">
+<div class="clickCard">
+    <div class="hover-shadow" style="width:100%">
+        <img src="reg.jpg" alt="Korea" style="width:100%">
+        <div>
+            <p class="bottomtext">Libraries</p>
+            <p class="bottomtext">ranking places to work</p>
+        </div>
+    </div>
+</div>
+</a>
+<div class="clickCard" onclick="dispMedia()">
+    <div class="hover-shadow" style="width:100%">
+        <img src="screen.jpg" alt="Korea" style="width:100%">
+        <div>
+            <p class="bottomtext">Media</p>
+            <p class="bottomtext">ranking consumption</p>
+        </div>
+    </div>
+</div>
+<div class="clickCard">
+    <div class="hover-shadow" style="width:100%">
+        <img src="memes.jpg" alt="Korea" style="width:100%">
+        <div>
+            <p class="bottomtext">Memes</p>
+            <p class="bottomtext">a connoisseur's review</p>
+        </div>
+    </div>
+</div>
+
+
+</body>
+</html>
