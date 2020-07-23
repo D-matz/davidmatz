@@ -1,0 +1,34 @@
+$(document).ready(function(){
+  $("#b1").click(function(){
+    $("#c1").toggle();
+    $("#c2").hide();
+    $("#c3").hide();
+    $("#c4").hide();
+    $("#c5").hide();
+  });
+  $("#b2").click(function(){
+    $("#c1").hide();
+    $("#c2").toggle();
+    $("#c3").hide();
+    $("#c4").hide();
+    $("#c5").hide(); });
+  $("#b3").click(function(){
+    $("#c1").hide();
+    $("#c2").hide();
+    $("#c3").toggle();
+    $("#c4").hide();
+    $("#c5").hide(); });
+  $("#b4").click(function(){
+    $("#c1").hide();
+    $("#c2").hide();
+    $("#c3").hide();
+    $("#c4").toggle();
+    $("#c5").hide();});
+  $("#b5").click(function(){
+    $("#c1").hide();
+    $("#c2").hide();
+    $("#c3").hide();
+    $("#c4").hide();
+    $("#c5").toggle();
+  });
+});

@@ -1,0 +1,39 @@
+body {
+	font-family: 'Lato', serif;
+  	font-size: 16px;
+}
+
+.category {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20%;
+  width: 60%;
+  padding: 10px;
+  background-color: #cce7e8;
+}
+
+.category:hover {
+  transform: scale(1.1, 1);
+}
+
+.content{
+	display: none;
+}
+
+.content p{
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+table {
+  border-collapse: collapse;
+  table-layout: auto;
+}
+
+th{
+font-size: 20px;
+}
+
+td {
+  border: 1px solid black;
+}
