@@ -11,7 +11,15 @@ body {
   background-color: #cce7e7;
   box-sizing: border-box;
 }
-
+.center {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20%;
+  width: 60%;
+  padding: 10px;
+  box-sizing: border-box;
+  overflow: auto;
+}
 
 .category:hover {
   transform: scale(1.1, 1);
@@ -53,6 +61,15 @@ img{
   display: block;
 }
 
+.circle {
+  border-radius: 50%;
+  float: left;
+  width: 250px;
+}
+
+h1{
+  font-size: 100px;
+}
 
 table {
   border-collapse: collapse;
