@@ -12,6 +12,19 @@ body {
   box-sizing: border-box;
 }
 
+
+@media only screen and (max-width: 800px) {
+ .category {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 10%;
+  width: 80%;
+  padding: 10px;
+  background-color: #cce7e7;
+  box-sizing: border-box;
+}
+}
+
 @media only screen and (max-width: 600px) {
  .category {
   margin-top: 20px;
