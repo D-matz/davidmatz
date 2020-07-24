@@ -23,7 +23,7 @@ body {
 }
 
 .category:hover {
-  transform: scale(1.1, 1);
+  transform: translate(20px, 0px);
 }
 
 .content{
@@ -71,7 +71,6 @@ img{
 h1{
  padding: 0px;
  margin: 0px;
- vertical-align: top; 
  font-size: 100px;
 }
 
@@ -132,4 +131,23 @@ td {
   box-sizing: border-box;
   overflow: auto;
 }
+}
+
+.icons{
+  overflow: auto;
+  height: 200px;
+}
+
+.icon{
+  float: left;
+  margin: 25px;
+  width: 150px;
+}
+
+.icon:hover {
+  transform: scale(1.2);
+}
+
+.smolcircle {
+  border-radius: 50%;
 }

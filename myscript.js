@@ -57,4 +57,14 @@ $(document).ready(function(){
     $("#a3").text("+ Employment")
     $("#a4").text("+ Projects")
   });
+$("#p1").on('click', function(){
+     window.open("proj/p1.pdf"); 
+});
+$("#p2").on('click', function(){
+     window.open("proj/p2.pdf"); 
+});
+$("#p3").on('click', function(){
+     window.open("proj/p3.pdf"); 
+});
+
 });
