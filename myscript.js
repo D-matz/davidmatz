@@ -66,5 +66,7 @@ $("#p2").on('click', function(){
 $("#p3").on('click', function(){
      window.open("proj/p3.pdf"); 
 });
-
+$("#p4").on('click', function(){
+     window.open("proj/p4.pdf"); 
+});
 });

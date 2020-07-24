@@ -139,6 +139,7 @@ td {
 }
 
 .icon{
+    text-align: center;
   float: left;
   margin: 25px;
   width: 150px;
@@ -150,4 +151,9 @@ td {
 
 .smolcircle {
   border-radius: 50%;
+  margin: auto;
+}
+
+.smol{
+ margin: auto;
 }
