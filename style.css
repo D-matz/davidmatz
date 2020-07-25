@@ -64,8 +64,8 @@ img{
 }
 
 .circle {
+  margin: auto;
   border-radius: 50%;
-  float: left;
   width: 250px;
 }
 
@@ -73,7 +73,7 @@ h1{
  padding: 0px;
  margin: 0px;
  font-size: 60px;
- text-align: right;
+ text-align: center;
 }
 
 table {
@@ -171,12 +171,3 @@ div.desc {
  margin: auto;
 }
 
-.halfl{
- width: 45%;
- float: left;
-}
-
-.halfr{
- width: 45%;
- float: right;
-}
