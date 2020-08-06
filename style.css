@@ -3,6 +3,7 @@ body {
   	font-size: 16px;
 }
 .category {
+  border-radius: 15px;
   margin-top: 20px;
   margin-bottom: 20px;
   margin-left: 20%;
@@ -94,6 +95,7 @@ td {
 @media only screen and (max-width: 800px) {
  .category {
   margin-top: 20px;
+  border-radius: 15px;
   margin-bottom: 20px;
   margin-left: 10%;
   width: 80%;
@@ -117,6 +119,7 @@ td {
  .category {
   margin-top: 20px;
   margin-bottom: 20px;
+  border-radius: 15px;
   margin-left: 3%;
   width: 94%;
   padding: 10px;
