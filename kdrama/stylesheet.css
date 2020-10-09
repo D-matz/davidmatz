@@ -36,10 +36,10 @@ body, html {
 }
 
 .grid {
-  max-width: 1200px;
   display: grid;
   grid-gap: 50px;
   justify-items: center;
+  padding-bottom: 50px;
 }
 
 @media (min-width: 600px) {
