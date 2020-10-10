@@ -1,0 +1,34 @@
+body, html {
+        width: 100%;
+        height: 100%;
+        background-color: #f4eeff;
+        font-family: "Roboto";
+   padding: 0;
+   margin: 0;
+}
+
+
+.wrapper {
+  display: grid;
+  grid-template-columns:
+    1fr
+    min(65ch, 100%)
+    1fr;
+}
+.wrapper > * {
+  grid-column: 2;
+}
+.full-bleed {
+  width: 100%;
+  grid-column: 1 / 4;
+}
+
+p{
+	padding: 10px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.center{
+  text-align: center;
+}
